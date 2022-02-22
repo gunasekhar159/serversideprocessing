@@ -17,7 +17,7 @@ Step 4:
 Mention the path of the website in urls.py.
 
 Step 5:
-Publish the website in the given URL. http://AavulaTharun.student.saveetha.in/
+Publish the website in the given URL. http://gunasekhar.student.saveetha.in/
 
 Step 6:
 Publish the website in the given URL.
@@ -145,11 +145,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-
-![output](./111.png)
-
-### Home Page:
+![output](https://github.com/gunasekhar159/serversideprocessing/blob/main/output%20.png?raw=true)
 
 
 ## Result:
-
+THE WEB PAGE IS CREATED SUCESSFULLY
